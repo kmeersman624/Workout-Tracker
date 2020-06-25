@@ -37,9 +37,9 @@
 
   ## Tests
 
-  ![image of test](./assets/images/readme1.PNG)
+  ![image of test](./public/assets/images/fitness.PNG)
 
-  ![image of test](./assets/images/readme2.PNG)
+  ![image of test](./public/assets/images/dashboard.PNG)
 
   ## Questions
 
