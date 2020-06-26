@@ -3,6 +3,9 @@
   ## Description
   This is a fitness tracker application allows the user to view, create, and track daily workouts. It uses a Mongo database with a Mongoose schema and handles routes with Express.
 
+  Link to deployed application:
+  https://murmuring-scrubland-28081.herokuapp.com/
+
   ![GitHub repo size](https://img.shields.io/github/repo-size/kmeerman624/README-Generator)
 
   ## Table of Contents
